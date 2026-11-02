@@ -1,0 +1,21 @@
+file,kondisi,buku_target,ditemukan,keterangan
+ideal_01.jpg,ideal,buku1;buku3,ya,buku1 dan buku3 terlihat jelas dari depan
+ideal_02.jpg,ideal,buku2;buku4,ya,buku2 dan buku4 terlihat jelas
+ideal_03.jpg,ideal,buku1;buku2;buku5,ya,3 buku target terlihat
+ideal_04.jpg,ideal,buku3,ya,hanya buku3 yang ada
+ideal_05.jpg,ideal,buku5;buku1,ya,2 buku target
+ideal_06.jpg,ideal,buku2;buku3;buku4,ya,3 buku target terlihat
+ideal_07.jpg,ideal,buku4;buku5,ya,2 buku target
+ideal_08.jpg,ideal,buku1;buku2;buku3;buku4;buku5,ya,semua buku target ada
+sudut_01.jpg,sudut,buku1,ya,buku1 difoto dari sudut miring ~30 derajat
+sudut_02.jpg,sudut,buku2;buku3,ya,buku diputar dan difoto miring
+sudut_03.jpg,sudut,buku4,ya,buku4 difoto dari sudut ~45 derajat
+sudut_04.jpg,sudut,buku5;buku1,ya,difoto dari samping
+sudut_05.jpg,sudut,buku2,ya,buku miring di rak
+sudut_06.jpg,sudut,buku3;buku5,ya,sudut pandang miring
+tertutup_01.jpg,tertutup,buku1,ya,buku1 tertutup sebagian oleh buku lain
+tertutup_02.jpg,tertutup,buku3;buku4,ya,buku3 tertutup ~30%
+tertutup_03.jpg,tertutup,buku2;buku5,ya,buku2 tertutup ~50% oleh buku lain
+tanpa_01.jpg,tanpa_target,,tidak,rak berisi buku lain tanpa buku target
+tanpa_02.jpg,tanpa_target,,tidak,meja dengan buku random
+tanpa_03.jpg,tanpa_target,,tidak,rak buku tanpa satupun buku target
